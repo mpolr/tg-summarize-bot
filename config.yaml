@@ -1,0 +1,2 @@
+ollama_api_url: "http://localhost:11434/api/generate"
+telegram_bot_token: ""
